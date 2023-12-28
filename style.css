@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    font-size: 35px;
+    font-family: sans-serif;
+    background-color: darkgray;
+}
+
+h2{
+    color: rgb(114, 78, 35);
+    text-decoration: underline;
+}
+
+#data{
+    font-size: 35px;
+    color: darkorange;
+    width: 240px;
+}
+
+.btn{
+    font-size: 30px;
+    border-radius: 12px;
+    background-color: rgb(97, 98, 99);
+    transition: 0.5s;
+    color: white;
+}
+
+.btn:hover{
+    background-color: rgb(226, 167, 145);
+    border-radius: 0px;
+    color: rgb(24, 23, 23);
+}
+
+#result{
+    color: green;
+}
